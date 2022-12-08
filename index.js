@@ -23,7 +23,7 @@ app.get('/api/token/:token_id', function(req, res) {
   const data = {
     'name': tokenId,
     'attributes': {
-      'Mona Lisa': tokenId
+      'Token': tokenId
     },
     'image': `${HOST}/images/${tokenId}.png`
   }

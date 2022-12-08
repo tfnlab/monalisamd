@@ -1,4 +1,4 @@
-const HOST = 'https://monalisamd.tfnlab.com'
+const HOST = 'https://banksy.tfnlab.com'
 
 module.exports = {
   HOST
